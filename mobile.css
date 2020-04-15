@@ -1,0 +1,21 @@
+@media (max-width: 1040px){
+
+    .productos{
+        display: block;
+        width: auto;
+        margin-top: auto;
+    }
+
+    .curva{
+        height: auto;
+        padding-bottom: 7%;
+    }
+
+    
+
+
+}
+
+@media (max-width: 600px){
+   
+}

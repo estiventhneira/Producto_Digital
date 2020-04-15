@@ -1,0 +1,13 @@
+body{
+    background-color: #1b1919;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    color: #7aCC2D;
+}
